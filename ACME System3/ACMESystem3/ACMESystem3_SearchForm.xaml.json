@@ -1,0 +1,21 @@
+{
+  "DisplayName": "ACMESystem3_SearchForm",
+  "Tooltip": "Description: search by client id in search bar\nPre_Condition: seach window appear\nPost_Condition :data of client is appear\n\n\nin_Argument:\nin_lClientId: string \nout_Argument:N/A\n",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_clientID",
+      "DisplayName": "in_clientID",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "TextComposer",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

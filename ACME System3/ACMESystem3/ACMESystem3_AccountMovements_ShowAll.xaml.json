@@ -1,0 +1,21 @@
+{
+  "DisplayName": "ACMESystem3_AccountMovements_ShowAll",
+  "Tooltip": "Description: click in show all \nPre_Condition: account movements window appear\nPost_Condition : result appear\n\n\nin_Argument:\nin_accountNum:string\n\nout_Argument:N/A\n",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_AccountNum",
+      "DisplayName": "in_AccountNum",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "TextComposer",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

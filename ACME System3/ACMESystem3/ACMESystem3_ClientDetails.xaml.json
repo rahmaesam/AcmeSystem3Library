@@ -1,0 +1,8 @@
+{
+  "DisplayName": "ACMESystem3_ClientDetails",
+  "Tooltip": "Description:click in clientAccount\nPre_Condition: client details appear\nPost_Condition client Account appear\n\nin_Argument:N/A\n\nout_Argument:N/A\n",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": []
+}

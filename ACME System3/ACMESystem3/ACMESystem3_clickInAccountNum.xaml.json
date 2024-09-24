@@ -1,0 +1,21 @@
+{
+  "DisplayName": "ACMESystem3_clickInAccountNum",
+  "Tooltip": "Description: click on account number that match\nPre_Condition: client Account appear\nPost_Condition account movements window appear\n\nin_Argument:\nin_accountNumber :string\n\nout_Argument:N/A\n",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_AccountNum",
+      "DisplayName": "in_AccountNum",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "TextComposer",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

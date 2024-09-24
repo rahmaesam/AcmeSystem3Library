@@ -1,0 +1,8 @@
+{
+  "DisplayName": "ACMESystem3_Clickon_closeTap",
+  "Tooltip": "Description:close all tap unless search form\nPre_Condition:N/A\nPost_Condition : search form appear\n\n\nin_Argument:N/A\n\nout_Argument:N/A\n",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": []
+}

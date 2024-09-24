@@ -1,0 +1,33 @@
+{
+  "DisplayName": "ACMESystem3_LogIn",
+  "Tooltip": "Description:log in with user name and password\nPre_Condition: welcome page found\nPost_Condition :welcome to your email that you loged in\n\nin_Argument\n: in_strPass: secure string \nin_strEmail: string\n\nout_Argument:N/A\n",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_strPass",
+      "DisplayName": "in_strPass",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_strEmail",
+      "DisplayName": "in_strEmail",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "",
+      "Widget": "TextComposer",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

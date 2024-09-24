@@ -1,0 +1,33 @@
+{
+  "DisplayName": "ACMESystem3_ExtractAmmount",
+  "Tooltip": "Description: extrat table \nPre_Condition:the in_AccountNum is same of Account Number is appear\nPost_Condition :check if data not null\n\n\nin_Argument:\nin_AccountNum:string\n\nout_Argument:\nout_table:dataTable",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_AccountNum",
+      "DisplayName": "in_AccountNum",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "TextComposer",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "out_TableAccountMove",
+      "DisplayName": "out_TableAccountMove",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "DisplayName": "ACMESystem3_ClickToSearch_inSearchForm",
+  "Tooltip": "Description: click on cliend id \nPre_Condition: N/A\n\nPost_Condition :\"client Details appear\"\n\nin_Argument:\nin_ClientId: string \nout_Argument:N/A",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_clientID",
+      "DisplayName": "in_clientID",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "TextComposer",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
